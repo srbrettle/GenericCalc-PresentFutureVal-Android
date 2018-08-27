@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Present Value &amp; Future Value Calculator</string>
+    <string name="action_settings">Rate</string>
+    <string name="input_brief">Select and input any 3 of the options.</string>
+    <string name="input_1">Interest % Per Time Period</string>
+    <string name="input_2">Number of Time Periods</string>
+    <string name="input_3">Future Value</string>
+    <string name="input_4">Present Value</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Reset</string>
+
+    <string name="updated">Values Updated.</string>
+</resources>
